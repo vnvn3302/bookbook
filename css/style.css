@@ -272,6 +272,10 @@ footer .centerbox address {margin-top: 37px; font-style: normal; color: #fff;}
 .login_page .login_box .member span {float: left; color: #fff;}
 .login_page .login_box .member a {float: right; background: #fff; width: 170px; height: 37px; text-align: center; font-size: 15px;}
 
+.login_page .join_box .go_joinbox {display: flex; justify-content: space-around; align-items: center;}
+.login_page .join_box .go_joinbox a {flex-grow: 1; text-align: center;}
+.login_page .join_box .go_joinbox a span {font-size: 150px; color:#526995;}
+.login_page .join_box .go_joinbox a p {font-family: 'KNUTRUTHTTF'; font-size: 25px;}
 
 .join_page .join_box .input_box {margin: 0 auto; width: 800px; }
 .join_page .join_box .input_box li { border-bottom: 1px solid #999; display: flex;}
